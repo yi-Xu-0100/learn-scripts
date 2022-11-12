@@ -4,11 +4,13 @@ Some scripts for leaning.
 
 ## batch
 
-- [copyFolder.bat](./batch/copyFolder.bat) : copy folder from `$1` to `$2`.
-- [push-origin.bat](batch/push-1.bat): push repo to github for hugo.
-- [push.bat](batch/push-1.bat): push repo to github for hugo.
-- [push-1.bat](batch/push-1.bat): push repo to github for hugo.
-- [style.bat](batch/style.bat): generate new style.css.
+- [copyFolder.bat](./batch/cmd/copyFolder.bat) : copy folder from `$1` to `$2`.
+- [push-origin.bat](batch/cmd/push-1.bat): push repo to github for hugo.
+- [push.bat](batch/cmd/push-1.bat): push repo to github for hugo.
+- [push-1.bat](batch/cmd/push-1.bat): push repo to github for hugo.
+- [style.bat](batch/cmd/style.bat): generate new style.css.
+
+- [update_build_info.ps1](./batch/powershell/update_build_info.ps1): Enable and update windows build info in desktop.
 
 ## matlab
 
