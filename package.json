@@ -39,7 +39,7 @@
   "homepage": "https://github.com/yi-Xu-0100/learn-scripts#readme",
   "devDependencies": {
     "eslint": "^8.31.0",
-    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-prettier": "^4.2.1",
     "husky": "^8.0.2",
     "lint-staged": "^13.1.0",
